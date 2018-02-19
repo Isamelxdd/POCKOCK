@@ -5,4 +5,4 @@ int main(){
      printf(“Voy a compartir con mi compañero el codigo”);
      return 0;
 }
-printf(“\nPONER EL NOMBRE AQUI\n”);
+printf(“\nIsmael Beristain Olivo\n”);
